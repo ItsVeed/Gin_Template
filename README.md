@@ -4,11 +4,11 @@ This is a simple template that has basic user authentication already implemeted 
 
 ## Packages Being Used
 
--Gin
--Gorm
--Go-JWT
--CompileDaemon
--Godotenv
+- Gin
+- Gorm
+- Go-JWT
+- CompileDaemon
+- Godotenv
 
 ## How to run
 
